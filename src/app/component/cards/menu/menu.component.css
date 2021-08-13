@@ -1,0 +1,12 @@
+.menu-container {
+  background-color: #ffc107d6;
+  /* border: 4px solid #f8f9fa; */
+  border: 4px solid #f8f8ff6b;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.menu-container-title {
+  color: #bd2130;
+  padding: 15px;
+}

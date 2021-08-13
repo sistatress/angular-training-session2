@@ -1,2 +1,2 @@
-# angular-training-session2
+# sign-up-angular-training
 Created with CodeSandbox
